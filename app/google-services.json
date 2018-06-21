@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "968962354562",
+    "firebase_url": "https://fb-teste-1.firebaseio.com",
+    "project_id": "fb-teste-1",
+    "storage_bucket": "fb-teste-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968962354562:android:390b6bba14aaea29",
+        "android_client_info": {
+          "package_name": "schieck.alarm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "968962354562-6fbpkk2fcejg2mi8mrbm4f9bht56j0nv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDer6F0ED5GMUxF-4CJ5lBVGEqRBGxpMBw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
